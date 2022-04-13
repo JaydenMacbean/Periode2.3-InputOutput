@@ -11,4 +11,9 @@ Mijn project voor Periode 2.3 Input/Output
 
 ## Descriptie:
 
-Dit is mijn 
+Voor dit project is het mijn doel om een special move input system (a la Final Fantasy VI/Street Fighter) te creëren. Om dit te doen gebruik ik als de Arduino als mijn controller. 
+
+
+## Technisch Design:
+
+
