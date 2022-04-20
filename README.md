@@ -8,6 +8,10 @@ Mijn project voor Periode 2.3 Input/Output
 - Arduino application
 - Arduino Parallax 2 Axis Joystick
 
+##Alternatief
+
+Mijn alternatief voor deze periode die ik had uitgekozen als mogelijke optie was om een virtual joystick op een IPhone zichtbaar maken via de scene en met die joystick waardes laten opslaan in een list, vergelijkbaar met dit project. Echter zou het importeren van het eindproduct moeilijk worden met een Apple product.
+
 
 ## Descriptie:
 
@@ -34,6 +38,10 @@ Sprint 4:
 Proberen om nog meerdere lists te maken voor medere soorten input sequences. 
 
 ## Kosten
+
+Qua geld zijn er geen kosten aan dit project verbonden.
+
+Het was mogelijk om een application te kopen voor de Arduino genaamd Uduino. Hier heb ik niet voor gekozen omdat ik dit project ook zou kunnen maken zonder deze applicatie.
 
 
 
