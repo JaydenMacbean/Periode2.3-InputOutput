@@ -23,18 +23,19 @@ Arduino inputs worden verbonden.
  
 Sprint 2:
 
-Er kunnen waardes meegegeven van de Arduino application naar Unity. Deze waardes worden opgeslagen in een list.
+Er kunnen waardes meegegeven van de Arduino application naar Unity. Deze waardes worden opgeslagen in een empty list. De waardes van de empty list worden alleen meegegeven wanneer de Arduino joystick wordt bewogen.
 
 Sprint 3:
 
-
+Er wordt een int list gevormd genaamd fixedCommand. Als de waardes van de empty list overheen koment met die van fixedCommand krijgt de speler een visuele animation te zien in de scene.
 
 Sprint 4:
 
+Proberen om nog meerdere lists te maken voor medere soorten input sequences. 
+
 ## Kosten
 
-##
-## Technisch Design:
+Qua 
 
 
 
