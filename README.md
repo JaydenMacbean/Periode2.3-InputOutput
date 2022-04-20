@@ -35,7 +35,7 @@ Proberen om nog meerdere lists te maken voor medere soorten input sequences.
 
 ## Kosten
 
-Qua 
+
 
 
 
