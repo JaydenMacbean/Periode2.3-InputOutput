@@ -3,7 +3,7 @@ Mijn project voor Periode 2.3 Input/Output
 
 ## Gebruikte middelen:
 
-- Unity
+- Javascript
 - Visual Studio 2019
 - Arduino application
 - Arduino Parallax 2 Axis Joystick
@@ -47,12 +47,7 @@ Het was mogelijk om een application te kopen voor de Arduino genaamd Uduino. Hie
 | Product  | Link |
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
-| logboekDoc (pdf)                             | [LogboekDoc]
-| Game concept doc (pdf)                    | [GameDesignDoc]
-| Sprint retrospective verslagen (pdf)      | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
 |<img width=500/>|<img width=300/>|
 
 
