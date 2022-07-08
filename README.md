@@ -49,9 +49,11 @@ Het was mogelijk om een application te kopen voor de Arduino genaamd Uduino. Hie
 | Link naar online product backlog (Trello) | [Backlog]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Prototype | [Prototype]
+| Presentatie | [Presentatie]
 |<img width=500/>|<img width=300/>|
 
 [Prototype]: https://editor.p5js.org/JMacbean/sketches/I9BM9kLMW
+[Presentatie]: https://docs.google.com/presentation/d/1HiNphxrCezgxtdRqTz0bY5cQiuLiF2kgDG-THsvLVTc/edit#slide=id.g1368cbf4215_0_227
 
 
 
