@@ -26,8 +26,7 @@ Sprint 1:
 Arduino inputs worden verbonden.
  
 Sprint 2:
-
-Er kunnen waardes meegegeven van de Arduino application naar Unity. Deze waardes worden opgeslagen in een empty list. De waardes van de empty list worden alleen meegegeven wanneer de Arduino joystick wordt bewogen.
+. Deze waardes worden opgeslagen in een empty list. De waardes van de empty list worden alleen meegegeven wanneer de Arduino joystick wordt bewogen.
 
 Sprint 3:
 
@@ -54,6 +53,7 @@ Het was mogelijk om een application te kopen voor de Arduino genaamd Uduino. Hie
 
 [Prototype]: https://editor.p5js.org/JMacbean/sketches/I9BM9kLMW
 [Presentatie]: https://docs.google.com/presentation/d/1HiNphxrCezgxtdRqTz0bY5cQiuLiF2kgDG-THsvLVTc/edit#slide=id.g1368cbf4215_0_227
+[Backlog]: https://editor.p5js.org/JMacbean/sketches/I9BM9kLMW
 
 
 
