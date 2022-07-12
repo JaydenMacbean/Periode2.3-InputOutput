@@ -30,7 +30,7 @@ Sprint 2:
 
 Sprint 3:
 
-Er wordt een int list gevormd genaamd fixedCommand. Als de waardes van de empty list overheen koment met die van fixedCommand krijgt de speler een visuele animation te zien in de scene.
+Er wordt een int list gevormd genaamd fixedCommand. Als de waardes van de empty list overheen koment met die van fixedCommand verandert de background van kleur.
 
 Sprint 4:
 
