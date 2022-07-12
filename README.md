@@ -17,7 +17,7 @@ Mijn alternatief voor deze periode die ik had uitgekozen als mogelijke optie was
 
 Voor dit project is het mijn doel om een special move input system (a la Final Fantasy VI/Street Fighter) te creëren. Om dit te doen gebruik ik als de Arduino als mijn controller. 
 
-De Arduino geeft afhankelijk van z'n afstand een int waarde mee. Die wordt dan opgepakt in het C# script en als opgeslagen in een int list.
+De Arduino geeft afhankelijk van z'n afstand een int waarde mee. Die wordt dan opgepakt in het JS script en als opgeslagen in een int list.
 
 ## Schema:
 
